@@ -10,3 +10,4 @@ setwd("M:/WorkspaceR/databases")
 Files <- list.files("rmd_posts", "Rmd")
 
 knit(file.path("rmd_posts", Files), file.path("_posts", paste0(sub(".Rmd", "", Files), ".md")))
+## rmarkdown::render(file.path("rmd_posts", Files), file.path("_posts", paste0(sub(".Rmd", "", Files), ".md")))
