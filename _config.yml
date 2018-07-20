@@ -8,13 +8,13 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "https://kamapu.github.io/swea_dataveg"
-baseurl: "/swea_dataveg"
+url: "https://kamapu.github.io/databases"
+baseurl: "/databases"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: SWEA-Dataveg site
+title: Vegetation Databases
 
 # Short description of your site
 description: A virtual proof that name is awesome!
